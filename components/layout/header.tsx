@@ -20,7 +20,7 @@ export default function Header() {
     // { name: "Services", path: "/services" },
     { name: "About", path: "/about" },
     // { name: "Pricing", path: "/pricing" },
-    // { name: "Contact", path: "/contact" },
+    { name: "Contact", path: "/contact" },
   ]
 
   return (
